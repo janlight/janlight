@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=radical&repo=VideoGame_analysis-project)](https://github.com/janlight/VideoGame_analysis-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=cobalt&repo=HeartDisease_ML-project)](https://github.com/janlight/HeartDisease_ML-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=prussian &repo=API-Project)](https://github.com/janlight/API-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=prussian&repo=API-Project)](https://github.com/janlight/API-Project)
