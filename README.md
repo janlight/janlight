@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23646E5D&title_bg=%234673C6&icon=datacamp.svg&icon_color=%23E7E7E7&title=data+scientist&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=janlight&theme=algolia&show_icons=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=radical&repo=VideoGame_analysis-project)](https://github.com/janlight/VideoGame_analysis-project)
