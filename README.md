@@ -52,7 +52,8 @@ Here are some ideas to get you started:
     - Tensorflow, Keras를 사용하여 기본적인 딥러닝 모델(Computer Vision, NLP) 구축 가능.
 - Docker, Git :
     - Docker와 Git을 통해 동료들과 원활한 협업 가능.
-
+- 기타 :
+    - 머신러닝, 딥러닝 논문 연구.
 
 
 <br></br>
