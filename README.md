@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 
 
 <br></br>
-##    ✨[PROJECT]
+## ✨[PROJECT]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=radical&repo=VideoGame_analysis-project)](https://github.com/janlight/VideoGame_analysis-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=midnight-purple&repo=HeartDisease_ML-project)](https://github.com/janlight/HeartDisease_ML-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=highcontrast&repo=API-Project)](https://github.com/janlight/API-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=midnight-purple&repo=Covid-19_X-ray_DL_project)](https://github.com/janlight/Covid-19_X-ray_DL_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=midnight-purple&repo=DL_ML-Recommendation-System-Speech-Data)](https://github.com/janlight/DL_ML-Recommendation-System-Speech-Data)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=highcontrast&repo=log-data-analysis-project)](https://github.com/janlight/log-data-analysis-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janlight&theme=radical&repo=log-data-analysis-project)](https://github.com/janlight/log-data-analysis-project)
 <br></br>
