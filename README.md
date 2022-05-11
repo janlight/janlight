@@ -50,8 +50,8 @@ Here are some ideas to get you started:
     - Scikit-learn, XGBoost, LightGBM을 사용하여 머신러닝 모델링 및 파이프라인 구축 가능.
 - Tensorflow, Keras :
     - Tensorflow, Keras를 사용하여 기본적인 딥러닝 모델(Computer Vision, NLP) 구축 가능.
-- Docker, Git :
-    - Docker와 Git을 통해 동료들과 원활한 협업 가능.
+- Git :
+    - Git을 통해 동료들과 원활한 협업 가능.
 - 기타 :
     - 머신러닝, 딥러닝 논문 연구.
 
