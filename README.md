@@ -48,10 +48,12 @@ Here are some ideas to get you started:
     - pandas 패키지를 이용한 데이터 처리 및 가공 가능.
 - Scikit-learn, XGBoost, LightGBM :
     - Scikit-learn, XGBoost, LightGBM을 사용하여 머신러닝 모델링 및 파이프라인 구축 가능.
-- Tensorflow, Keras :
-    - Tensorflow, Keras를 사용하여 기본적인 딥러닝 모델(Computer Vision, NLP) 구축 가능.
+- Tensorflow, Keras, pytorch :
+    - Tensorflow, Keras, pytorch를 사용하여 기본적인 딥러닝 모델(Computer Vision, NLP) 구축 가능.
 - Git :
     - Git을 통해 동료들과 원활한 협업 가능.
+- Docker:
+    - 클라우드 환경을 이해하고 Docker를 통해 모델 구축을 위한 기본적인 환경 구축 가능.
 - 기타 :
     - 머신러닝, 딥러닝 논문 연구.
 
